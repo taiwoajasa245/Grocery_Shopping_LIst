@@ -1,4 +1,4 @@
-# grocery_list_flutter
+# Grocery_Shopping_List_Flutter
 
 A new Flutter project that help in keeping your grocery list when shopping.
 
